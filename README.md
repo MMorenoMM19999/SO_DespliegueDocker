@@ -20,7 +20,8 @@ Usted deberá hacer un video donde intervengan tod@s l@s integrantes del grupo.
 Tener presente lo siguiente:
 Los contenedores cuando se ejecutan deben estar conectados a la red pg_network.  Esto permitirá que ambos contenedores se conozcan por su nombre de contenedor.
 
-ENLACE DEL VIDEO DE YOUTUBE:
+ENLACE DEL VIDEO DE YOUTUBE:https://youtu.be/jwjZdjuiDZU
+
 
 MIGUEL ANGEL MORENO ROMERO 202125737
 miguel.romero@correounivalle.edu.co
